@@ -15,21 +15,22 @@ Un **Full Stack Developer** con esperienza nello sviluppo di applicazioni web e 
 
 ## 🛠️ Competenze
 
-- **Linguaggi di Programmazione**: TypeScript, Python, JavaScript, Java, C, C#, Scala
-- **Frameworks & Tools**: Angular, GraphQL, Firebase, Google Cloud Platform, Unity
-- **Machine Learning**
+- **Linguaggi di Programmazione**: TypeScript, Python, JavaScript, Java, C, C#, Scala 🖥️
+- **Frameworks & Tools**: Angular, GraphQL, Firebase, Google Cloud Platform, Unity ⚙️
+- **Machine Learning** 🤖
 - **Sviluppo**:
-  - Applicazioni **IoT**
-  - Integrazione di **API**
-  - Sviluppo di applicazioni **Android**
-  - Sviluppo di applicazioni **Unity**
+  - Applicazioni **GenAI** 💡
+  - Applicazioni **IoT** 🌐
+  - Integrazione di **API** 🔗
+  - Sviluppo di applicazioni **Android** 📱
+  - Sviluppo di applicazioni **Unity** 🎮 
 
 ---
 
 
 ## 💼 Esperienze Lavorative
 
-### Full Stack Developer | ByteCare S.r.l.
+### Full Stack Developer | ByteCare S.r.l. 💻
 _Cagliari, Italia | 2023 – 2024_
 
 Ho fatto parte di un team dedicato allo sviluppo di una piattaforma di generazione di contenuti tramite intelligenza artificiale. Le mie principali responsabilità includevano la gestione e lo sviluppo del front end della piattaforma, utilizzando principalmente **TypeScript**, **Angular** e **GraphQL** per la programmazione, insieme a **HTML** e **SCSS** per la realizzazione delle interfacce utente.
@@ -66,10 +67,10 @@ _Università di Cagliari | 09/2017 – 07/2020_
 
 ## 🚀 Progetti
 
-- **CRoCs-XR**: Shopping virtuale con VR e AR.
-- **HOCTOPUS**: Migliora le lezioni in streaming con esperienze di realtà aumentata.
-- **Bike Fleet Monitoring**: Gestione di una flotta di bici a noleggio.
-- **Air Quality Monitoring System**: Applicazione IoT per smart home.
+- **CRoCs-XR**: Shopping virtuale con VR e AR. 🛍️
+- **HOCTOPUS**: Migliora le lezioni in streaming con esperienze di realtà aumentata. 📺
+- **Bike Fleet Monitoring**: Gestione di una flotta di bici a noleggio. 🚲
+- **Air Quality Monitoring System**: Applicazione IoT per smart home. 🌱
   
 ... e molti altri! Puoi dare un'occhiata ai miei progetti qui su GitHub! 👇
 
