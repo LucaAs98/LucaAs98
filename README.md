@@ -13,12 +13,6 @@ Un **Full Stack Developer** con esperienza nello sviluppo di applicazioni web e 
 
 ---
 
-[🛠️ Competenze](#competenze) - [💼 Esperienze Lavorative](#esperienze-lavorative) - [🎓 Formazione](#formazione) - [📚 Pubblicazioni](#pubblicazioni) - [🚀 Progetti](#progetti)
-
----
-
-
-
 ## 🛠️ Competenze
 
 - **Linguaggi di Programmazione**: TypeScript, Python, JavaScript, Java, C, C#, Scala
