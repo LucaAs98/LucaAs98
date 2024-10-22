@@ -10,7 +10,14 @@ Un **Full Stack Developer** con esperienza nello sviluppo di applicazioni web e 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/luca-asunis/) 
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-0B86B3?style=flat&logo=researchgate)](https://www.researchgate.net/profile/Luca-Asunis)
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/lucaasunis/)
+
 ---
+
+[🛠️ Competenze](#competenze) - [💼 Esperienze Lavorative](#esperienze-lavorative) - [🎓 Formazione](#formazione) - [📚 Pubblicazioni](#pubblicazioni) - [🚀 Progetti](#progetti)
+
+---
+
+
 
 ## 🛠️ Competenze
 
