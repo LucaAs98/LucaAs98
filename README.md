@@ -1,4 +1,4 @@
-# 👋 Ciao! Sono Luca Asunis
+# 👋🐢 Benvenuto! Sono Luca
 
 Un **Full Stack Developer** con esperienza nello sviluppo di applicazioni web e un forte interesse per le nuove tecnologie
 
@@ -79,21 +79,3 @@ _Università di Cagliari | 09/2017 – 07/2020_
 ... e molti altri! Puoi dare un'occhiata ai miei progetti qui su GitHub! 👇
 
 ---
-
-## 🗣️ Lingue
-
-- **Italiano**: Madrelingua
-- **Inglese**: B2
-
----
-
-## 🏆 Certificati
-
-- Patente di guida - B - Automunito
-
----
-
-
-## 🎉 Grazie per essere passato/a!
-
-Se vuoi collaborare, discutere di nuove idee o semplicemente chiacchierare, non esitare a contattarmi! 🚀
