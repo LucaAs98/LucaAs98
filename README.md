@@ -12,12 +12,6 @@ Un **Full Stack Developer** con esperienza nello sviluppo di applicazioni web e 
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/lucaasunis/)
 ---
 
-## 🌟 Profilo
-
-Da sempre la tecnologia ha catturato la mia attenzione, alimentando la mia curiosità e spingendomi a cercare sempre nuove sfide. Adoro lavorare in team e affrontare progetti stimolanti dove posso mettere in pratica le mie abilità!
-
----
-
 ## 🛠️ Competenze
 
 - **Linguaggi di Programmazione**: TypeScript, Python, JavaScript, Java, C, C#, Scala
