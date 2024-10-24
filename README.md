@@ -1,6 +1,6 @@
 # 👋🐢 Benvenuto! Sono Luca
 
-Un **Full Stack Developer** con esperienza nello sviluppo di applicazioni web e un forte interesse per le nuove tecnologie
+un **Full Stack Developer** con esperienza nello sviluppo di applicazioni web, in grado di gestire sia il **front end** che il **back end**. Ho una **solida conoscenza** delle tecnologie più moderne e una **grande curiosità** per le nuove tendenze nel mondo dello sviluppo. Mi piace lavorare su progetti che richiedono **logica** e **problem solving**, con l’obiettivo di creare soluzioni che **aiutino gli utenti** a risolvere i loro problemi in modo efficace e intuitivo.
 
 📧 **Contattami**: [lucaasunis1@gmail.com](mailto:lucaasunis1@gmail.com)  
 📞 **Telefono**: 3473290919  
@@ -34,11 +34,11 @@ Un **Full Stack Developer** con esperienza nello sviluppo di applicazioni web e 
 ### Full Stack Developer | ByteCare S.r.l. 💻
 _Cagliari, Italia | 2023 – 2024_
 
-Ho fatto parte di un team dedicato allo sviluppo di una piattaforma di generazione di contenuti tramite intelligenza artificiale. Le mie principali responsabilità includevano la gestione e lo sviluppo del front end della piattaforma, utilizzando principalmente **TypeScript**, **Angular** e **GraphQL** per la programmazione, insieme a **HTML** e **SCSS** per la realizzazione delle interfacce utente.
+Ho fatto parte di un team dedicato allo sviluppo di una piattaforma di **generazione di contenuti** tramite intelligenza artificiale. Mi sono occupato principalmente della **gestione** e dello **sviluppo** dell'applicazione WEB, sia lato **front end** che **back end**, utilizzando _TypeScript_, _Angular_ e _GraphQL_ per la programmazione, insieme a _HTML_ e _SCSS_ per la realizzazione delle interfacce utente e _NodeJS_ per la logica del back end. All'occorrenza, ho contribuito anche allo sviluppo delle API, scritte in _Python_.
 
-Data la dimensione ridotta del team, composto da cinque persone, ho contribuito trasversalmente a tutte le aree del progetto, intervenendo spesso anche sul back end (**NodeJS**). Gestivo inoltre i vari ambienti di sviluppo e partecipavo attivamente al processo di deploy, utilizzando **Firebase** e **Google Cloud Platform**.
+Data la dimensione ridotta del team, composto da cinque persone, ho lavorato trasversalmente a **tutte le aree del progetto** e gestito i vari **ambienti di sviluppo**. Ho infatti partecipato attivamente anche al **processo di deploy**, utilizzando _Firebase_ e la _Google Cloud Platform_.
 
-Questa esperienza mi ha permesso di sviluppare competenze tecniche versatili e un approccio collaborativo, consentendomi di apportare un contributo significativo a tutte le fasi del ciclo di vita del progetto.
+Questa esperienza mi ha permesso di sviluppare competenze tecniche **versatili** e un **approccio collaborativo**, consentendomi di apportare un contributo significativo a **tutte le fasi del ciclo di vita del progetto**.
 
 ---
 
